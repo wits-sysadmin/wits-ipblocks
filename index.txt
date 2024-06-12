@@ -25,3 +25,9 @@
 148.113.142.216
 185.213.175.171
 45.87.41.50
+138.59.205.0/24 VPN Attack from US
+38.152.246.0/24 VPN Attack from US
+38.152.244.0/24 VPN Attack from US
+38.152.245.0/24 VPN Attack from US
+38.152.147.0/24 VPN Attack from US
+138.59.204.0/24 VPN Attack from US
