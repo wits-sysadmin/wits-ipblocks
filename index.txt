@@ -446,3 +446,4 @@
 85.208.19.0/24 JP VPN Attempts
 45.89.55.0/24 RS VPN Attempts
 77.75.230.0/24 CZ VPN Attempts
+45.82.84.0/22 US VPN Attempts
