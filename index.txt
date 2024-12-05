@@ -5013,3 +5013,5 @@
 136.0.126.183
 149.28.70.206
 172.56.195.31
+66.249.79.167 wise fckeditor abuser
+52.167.144.184 wise fckeditor abuser
